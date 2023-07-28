@@ -1,1 +1,1 @@
-# authentication_djnago
+# authentication_django
